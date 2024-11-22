@@ -42,3 +42,33 @@ This project focuses on analyzing Reddit posts from six subreddit forums within 
 
 - **Repetition and Testing:**
   - The analysis was repeated across five separate conversations to observe variations in output and refine insights.
+
+## Results
+
+### Differentiators
+
+Key distinctions among subreddits emerged from the analysis:
+- **r/Passport_Bros and r/PassportBrosHQ:** Discussions on sex tourism and international dating, with a focus on Colombia.
+- **r/passportbro and r/passportbrosunited:** General travel inquiries with limited focus on social experiences.
+- **r/ThePassportBros:** Predominantly social experiences and dating discussions.
+
+### Clustering
+
+Six thematic clusters were developed:
+1. **Practical Travel:** Focus on logistics and advice-sharing (e.g., r/passportbro, r/passportbrosunited).
+2. **Travel & Social Balance:** Blend of travel advice and dating/social experiences (e.g., r/PassportBrosHQ, r/PassportBrosOnTop).
+3. **Social Experiences:** Interactions with women abroad alongside some travel advice (e.g., r/Passport_Bros, r/ThePassportBros).
+4. **Regional Focus:** Discussions on travel and dating in specific countries/regions (e.g., r/Passport_Bros, r/ThePassportBros).
+5. **Movement Ethos:** Exploration of motivations and ideologies behind Passport Bros (e.g., r/PassportBrosOnTop, r/PassportBrosHQ).
+6. **Niche Topics:** Unique discussions on cryptocurrency, economics, and cultural insights (e.g., r/passportbrosunited).
+
+### Insights
+
+- While united by a shared interest in international travel, subreddits cater to diverse aspects of the Passport Bros movement, ranging from logistics and dating to movement ideology and niche topics.
+- The clusters reflect a variety of interests but often converge on the common goal of seeking relationships abroad.
+
+---
+
+## Contact Information
+
+For any questions or further information about this project, please reach out to the project contributors.
