@@ -1,4 +1,4 @@
-# Passport Bros Community Data Collection
+# Passport Bros Reddit Analysis Project
 
 ## Project Overview
 
